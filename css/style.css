@@ -162,7 +162,7 @@ SECTION WRAPS
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 700px;
+  min-height: 650px;
   width: 100%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -188,8 +188,8 @@ SECTION WRAPS
 
 #intro {
   background: #2c3e50;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   color: white;
 }
 
