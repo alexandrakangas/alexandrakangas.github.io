@@ -163,11 +163,11 @@ SECTION WRAPS
   background-attachment: relative;
   background-position: center center;
   min-height: 650px;
-  width: 100%;
+  width: 90%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
-  background-size: 100%;
+  background-size: 90%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
