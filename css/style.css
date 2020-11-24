@@ -157,7 +157,7 @@ SECTION WRAPS
 
 #headerwrap {
   background: url(../img/IMG_2268.JPG) no-repeat center top;
-  margin-top: 80px;
+  margin-top: 60px;
   padding-top: 140px;
   text-align: center;
   background-attachment: relative;
@@ -188,8 +188,8 @@ SECTION WRAPS
 
 #intro {
   background: #2c3e50;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   color: white;
 }
 
